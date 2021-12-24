@@ -1,3 +1,4 @@
 # SoftwareSecurity
-Using Draw.io and Java to implement security on generic software
-Using signature and message digests
+Implementing Security features on file transfers
+1) Signatures, 2) Message Digests, 3) Encryption/Decryption
+Java Based
